@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thesuperpig56
-- 👀 I’m interested in writing code!
+- ✨ Coding is my terrible skill ✨
 - 🌱 I’m currently learning C++ through my own way and not through a book!
-- 📫 Please don't contact me in any way.
+- 📫 If you need to contact me, don't. Thanks!
 
 <!---
 thesuperpig56/thesuperpig56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
