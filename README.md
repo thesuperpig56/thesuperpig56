@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thesuperpig56
 - ✨ Coding is my terrible skill ✨
-- 🌱 I’m currently learning C++ through my own way and not through a book!
+- 🌱 chicken
 - 📫 If you need to contact me, don't. Thanks!
 
 <!---
