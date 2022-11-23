@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thesuperpig56
-- ✨ Coding is my terrible skill ✨
-- 🌱 chicken
+- ✨ Writing stuff in any programming language is painful. ✨
+- 🌱 I work on private repositories only, never going to catch me working on a public repo.
 - 📫 If you need to contact me, don't. Thanks!
 
 <!---
