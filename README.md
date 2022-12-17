@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @thesuperpig56
+- 👋 Hello! I am @thesuperpig56 .
 - ✨ Writing stuff in any programming language is painful. ✨
-- 🌱 I work on private repositories only, never going to catch me working on a public repo.
-- 📫 If you need to contact me, don't. Thanks!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thesuperpig56&show_icons=true&theme=radical&count_private=true)
 
