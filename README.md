@@ -1,5 +1,5 @@
-- 👋 Hello! I am @thesuperpig56 .
-- ✨ Writing stuff in any programming language is painful. ✨
+- 👋 Hello.
+- ✨ Programming is a skill I need to fully utilize in my life. (and get better with) ✨
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thesuperpig56&show_icons=true&theme=radical&count_private=true)
 
