@@ -1,4 +1,4 @@
-- 👋 Hello!
+- Hello! 👋 
 - ✨ Programming is a skill I need to fully utilize in my life. (Learning Haxe!) ✨
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thesuperpig56&show_icons=true&theme=radical&count_private=true)
