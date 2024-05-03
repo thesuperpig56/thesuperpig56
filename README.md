@@ -1,5 +1,5 @@
 - Hello! 👋 
-- ✨ Programming is a skill I need to fully utilize in my life. (Learning Haxe!) ✨
+- ✨ sparkle sparkle ✨
 
 - This GitHub stats widget is for some reason wrong on a lot of it. How odd.
 
